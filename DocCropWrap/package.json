@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "../DocCropWrap",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "../DocCropWrap",
+        "spec": "D:\\sam\\DocCropWrap",
+        "type": "directory"
+      },
+      "D:\\sam\\doccropproject"
+    ]
+  ],
+  "_from": "..\\DocCropWrap",
+  "_id": "@ionic-native/doc-crop@1.0.1",
+  "_inCache": true,
+  "_location": "/@ionic-native/doc-crop",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "../DocCropWrap",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "../DocCropWrap",
+    "spec": "D:\\sam\\DocCropWrap",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\DocCropWrap",
+  "_shasum": "4dffd2ba8e80b06582208977d9698f63f697d7d6",
+  "_shrinkwrap": null,
+  "_spec": "../DocCropWrap",
+  "_where": "D:\\sam\\doccropproject",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "dependencies": {},
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "ihadeed",
+      "email": "ibby@zyra.ca"
+    },
+    {
+      "name": "maxlynch",
+      "email": "max@ionic.io"
+    },
+    {
+      "name": "ionicjs",
+      "email": "hi@ionicframework.com"
+    }
+  ],
+  "module": "index.js",
+  "name": "@ionic-native/doc-crop",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@ionic-native/core": "^4.2.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.1"
+}
